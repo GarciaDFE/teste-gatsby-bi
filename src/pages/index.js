@@ -30,7 +30,7 @@ const IndexPage = () => {
         alt="exemplo imagem fundo"
         style={{ maxWidth: "1200px", margin: "0 auto" }}
       />
-      <Title>.:. Projeto Web Gatsby JS .:.</Title>
+      <Title>.:. TESTE PROJETO ROSA DESIGNER .:.</Title>
     </Layout>
   )
 
